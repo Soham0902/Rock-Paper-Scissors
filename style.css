@@ -91,6 +91,8 @@ h2{
     }
 
     #msg{
-        font-size:1.25rem;
+        font-size:1.3rem;
+        display: inherit;
+        margin: 1rem;
     }
 }
